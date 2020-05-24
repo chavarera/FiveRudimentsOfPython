@@ -8,6 +8,10 @@ tuple,
 dictionary
 ```
 
+## Download Pdf
+![Download Five Rudiments of Python](https://github.com/chavarera/FiveRudimentsOfPython/blob/master/FiveRudimentsOfPython.pdf)
+
+
 
 ### About Author
 Name | Work
