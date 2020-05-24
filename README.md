@@ -8,6 +8,7 @@ tuple,
 dictionary
 ```
 
+
 ### About Author
 Name | Work
 ------------ | -------------
@@ -15,7 +16,8 @@ Name | Work
 [Deepak Chauhan](https://github.com/royaleagle73) | Editor
 
 
+
 ### Support 
 Make a donation to support the work of the Open Source Initiative.
-![fiverudimentsofpython@paytm](https://lh4.googleusercontent.com/-ZBHayW6kQeobnf8vxOw8O3K86Hdule2_Dhy1hRoSn1MfureTohlZ85JPkwnEtP86K_XrhC9kaMWog=w1853-h951)
+![fiverudimentsofpython@paytm](https://i.ibb.co/3r62Tp5/Title.jpg)
 
